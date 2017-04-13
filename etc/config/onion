@@ -1,0 +1,13 @@
+
+config onion
+	option version '0.1.5'
+	option build '130'
+
+config console 'console'
+	option setup '0'
+	option install '0'
+	option editor '0'
+	option terminal '0'
+	option webcam '0'
+	option nodered '0'
+
